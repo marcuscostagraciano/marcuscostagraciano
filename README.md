@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id='badges'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+<div id='header' align='center'>
+  <div id='badges'>
+    <a href='https://www.linkedin.com/in/marcus-costa-graciano/'>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+  </div>
+
+  <img src='https://komarev.com/ghpvc/?username=marcuscostagraciano&style=flat-square&color=blue'  alt=""/>
 </div>
