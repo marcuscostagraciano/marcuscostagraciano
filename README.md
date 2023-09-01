@@ -10,9 +10,9 @@
       <img width='120em' src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt='LinkedIn profile'>
     </a>
   </div>
-  <a href='#'>
+<!--   <a href='#'>
   <img width='120em' src='https://komarev.com/ghpvc/?username=marcuscostagraciano&style=flat-square&color=blue'  alt="Number of profile views">
-  </a>
+  </a> -->
 </div>
 
 ##
