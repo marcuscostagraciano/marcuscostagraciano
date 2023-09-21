@@ -19,7 +19,7 @@
 ### 🔥 My Stats 🔥
 <div align='center'>
   <img width='75%' src='https://github-readme-streak-stats.herokuapp.com?user=marcuscostagraciano&theme=transparent&hide_border=true&mode=weekly' />
-  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=marcuscostagraciano&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&count_private=false' alt='GitHub Stats'>
+  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=marcuscostagraciano&show_icons=true&theme=transparent&hide_border=true' alt='GitHub Stats'>
   <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscostagraciano&layout=compact&langs_count=7&theme=transparent&hide_border=true' alt='Most Used Languages'>
 </div>
 
