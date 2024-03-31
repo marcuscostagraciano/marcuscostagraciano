@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup, _amigo_!
 ##
 - Currently studying at [Instituto Federal Catarinense](https://araquari.ifc.edu.br/)
 - Doing [Bachelor's Degree in Information Systems](https://bsi.araquari.ifc.edu.br/)
